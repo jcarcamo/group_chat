@@ -18,7 +18,7 @@ Must have the following:
  
  
 Tech that must be used, front end:
-* JS - Backbone or React
+* JS - Backbone or React(redux its a bonus)
 * HTML/CSS bootstrap
 
 
