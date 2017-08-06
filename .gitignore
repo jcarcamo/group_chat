@@ -1,0 +1,6 @@
+*.pyc
+*.save
+env/
+chat/assets/bundles
+chat/node_modules/
+chat/db.sqlite3
